@@ -1,0 +1,15 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/conocenos", "destination": "/conocenos.html" },
+    { "source": "/programas-de-abordaje", "destination": "/programas-de-abordaje.html" },
+    { "source": "/cife", "destination": "/cife.html" },
+    { "source": "/actividades", "destination": "/actividades.html" },
+    { "source": "/blog", "destination": "/blog.html" },
+    { "source": "/proximos-eventos", "destination": "/proximos-eventos.html" },
+    { "source": "/apoyanos", "destination": "/apoyanos.html" },
+    { "source": "/contacto", "destination": "/contacto.html" },
+    { "source": "/logros", "destination": "/logros.html" }
+  ]
+}

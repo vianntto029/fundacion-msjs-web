@@ -1,0 +1,10 @@
+{
+  "name": "fundacion-msjs",
+  "version": "1.0.0",
+  "description": "Sitio web de Fundación Mochila de Sueños del Joven Simón",
+  "scripts": {
+    "dev": "npx serve . -p 3000 -s",
+    "start": "npx serve . -p 3000 -s"
+  },
+  "private": true
+}
